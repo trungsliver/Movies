@@ -1,4 +1,4 @@
-package dev.ductrung.movies.Entity;
+package dev.ductrung.movies.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
