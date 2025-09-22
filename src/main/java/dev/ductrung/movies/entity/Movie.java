@@ -8,7 +8,8 @@ import org.springframework.data.mongodb.core.mapping.DocumentReference;
 
 import java.util.List;
 
-@Document(collation = "movies")
+@Document(collection = "movies")
+//@Document
 @Getter
 @Setter
 @AllArgsConstructor
